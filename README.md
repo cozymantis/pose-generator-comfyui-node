@@ -1,6 +1,6 @@
 # Cozy Pose Generator
 
-Generate OpenPose poses in ComfyUI with ease. Made with 💚 by the CozyMantis squad.
+Generate OpenPose poses and build character reference sheets in ComfyUI with ease. Made with 💚 by the CozyMantis squad.
 
 ## Installation
 
