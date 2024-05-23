@@ -1,0 +1,15 @@
+[project]
+name = "pose-generator-comfyui-node"
+description = "Generate OpenPose face/body reference poses in ComfyUI with ease. Made with 💚 by the CozyMantis squad."
+version = "1.0.0"
+license = "LICENSE"
+dependencies = ["torch", "numpy", "pillow"]
+
+[project.urls]
+Repository = "https://github.com/cozymantis/pose-generator-comfyui-node"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "pose-generator-comfyui-node"
+Icon = ""
