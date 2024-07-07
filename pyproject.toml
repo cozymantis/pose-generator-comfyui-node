@@ -10,6 +10,6 @@ Repository = "https://github.com/cozymantis/pose-generator-comfyui-node"
 #  Used by Comfy Registry https://comfyregistry.org
 
 [tool.comfy]
-PublisherId = ""
-DisplayName = "pose-generator-comfyui-node"
+PublisherId = "cozymantis"
+DisplayName = "Pose Generator ComfyUI Node"
 Icon = ""
